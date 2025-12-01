@@ -1,12 +1,4 @@
-{
-  "name": "matrizesjs",
-  "version": "1.0.0",
-  "description": "Trabalho de matrizes em JavaScript",
-  "main": "matrizes.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "devDependencies": {
-    "jest": "^29.0.0"
-  }
+"scripts": {
+  "start": "node matrizes.js",
+  "test": "jest"
 }
